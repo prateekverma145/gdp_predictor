@@ -28,4 +28,4 @@ to learn more about randomforestreggressor :([URL "Tooltip Text"](https://scikit
 ![Alt text](./ss2.png)
 
 
-## To run streamlit app write : streamlit run (filename)
+## To run streamlit app write : streamlit run file_name
