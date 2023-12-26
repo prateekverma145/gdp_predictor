@@ -20,8 +20,11 @@ Model Training: The machine learning model is trained using historical economic 
 
 Prediction: Once trained, the model can predict GDP values for a given set of economic indicators, offering a forward-looking perspective on a country's economic performance.
 # Algorithm used: RandomForestRegressor
+to learn more about randomforestreggressor :([URL "Tooltip Text"](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))
 ## Screenshots
+
 ![Alt text](./ss1.png)
+
 ![Alt text](./ss2.png)
 
 
